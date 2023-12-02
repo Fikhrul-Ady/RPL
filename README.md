@@ -3,3 +3,5 @@
 |----|---|-----|------|
 |Muhammad Fiqri Setyoadi|312210062|TI.22.A.2|Rekayasa Perangkat Lunak|
 
+![video](short_video/video_2.mp4)
+
